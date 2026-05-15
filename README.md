@@ -31,8 +31,8 @@ A stock market dashboard for tracking portfolios and market trends.
 ---
 
 ## 📫 Connect With Me
-LinkedIn: Add Your LinkedIn Link  
-Email: Your Email  
+LinkedIn: https://www.linkedin.com/in/prince-kumar-090aa03b3?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+Email: princeku9939@gmail.com
 
 ---
 ⭐ “Code. Build. Improve. Repeat.”
